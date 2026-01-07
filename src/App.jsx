@@ -10,7 +10,7 @@ import "./index.css";
 // start camera -> capture image -> fetch the data -> speak the generated data
 
 // 🔑 Gemini API key
-const API_KEY = "AIzaSyClHsogOH6u7fBA2uWDDfWCCzqRBzXmUmI";
+const API_KEY = "";
 
 // Main React component
 function App() {
